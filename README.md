@@ -46,7 +46,7 @@ Here's a walkthrough of implemented user stories:
 > `![Video Walkthrough](walkthrough.gif)` 
 > 
 
-![Video Walkthrough](test.gif)
+![Video Walkthrough](guide.gif)
 * I cannot find a sofware that create GIF file on ubuntu!
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
