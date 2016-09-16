@@ -46,7 +46,7 @@ Here's a walkthrough of implemented user stories:
 > `![Video Walkthrough](walkthrough.gif)` 
 > 
 
-![Video Walkthrough](/submit_xuanviet/test.gif)
+![Video Walkthrough](xuanvietradio/First_RailsApp/guide.mp4)
 * I cannot find a sofware that create GIF file on ubuntu!
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
